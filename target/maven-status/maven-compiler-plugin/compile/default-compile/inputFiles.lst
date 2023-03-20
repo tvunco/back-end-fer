@@ -19,6 +19,7 @@ D:\Argentina Programa\prueba\back-end-fer\src\main\java\ar\miapp\pi\fer\Entity\P
 D:\Argentina Programa\prueba\back-end-fer\src\main\java\ar\miapp\pi\fer\FerApplication.java
 D:\Argentina Programa\prueba\back-end-fer\src\main\java\ar\miapp\pi\fer\Security\Controller\Mensaje.java
 D:\Argentina Programa\prueba\back-end-fer\src\main\java\ar\miapp\pi\fer\Security\Service\UsuarioService.java
+D:\Argentina Programa\prueba\back-end-fer\src\main\java\ar\miapp\pi\fer\Security\CorsFilter.java
 D:\Argentina Programa\prueba\back-end-fer\src\main\java\ar\miapp\pi\fer\Security\jwt\JwtEntryPoint.java
 D:\Argentina Programa\prueba\back-end-fer\src\main\java\ar\miapp\pi\fer\Security\Dto\LoginUsuario.java
 D:\Argentina Programa\prueba\back-end-fer\src\main\java\ar\miapp\pi\fer\Security\Entity\UsuarioPrincipal.java

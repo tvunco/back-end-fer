@@ -10,6 +10,7 @@ ar\miapp\pi\fer\Security\jwt\JwtEntryPoint.class
 ar\miapp\pi\fer\Service\Shys.class
 ar\miapp\pi\fer\Security\Service\UserDetailsImpl.class
 ar\miapp\pi\fer\Repository\RExperiencia.class
+ar\miapp\pi\fer\Security\CorsFilter.class
 ar\miapp\pi\fer\Security\Dto\NuevoUsuario.class
 ar\miapp\pi\fer\FerApplication.class
 ar\miapp\pi\fer\Service\ImpPersonaService.class
